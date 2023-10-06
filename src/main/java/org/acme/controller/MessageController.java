@@ -1,9 +1,9 @@
 package org.acme.controller;
 
-import org.acme.Repository.MessageRepository;
-import org.acme.Repository.UserRepository;
 import org.acme.model.MessageModel;
 import org.acme.model.UserModel;
+import org.acme.repository.MessageRepository;
+import org.acme.repository.UserRepository;
 
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;

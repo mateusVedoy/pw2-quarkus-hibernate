@@ -1,4 +1,4 @@
-package org.acme.Repository;
+package org.acme.repository;
 
 import org.acme.model.ChannelModel;
 

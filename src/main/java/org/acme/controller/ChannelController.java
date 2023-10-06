@@ -2,10 +2,10 @@ package org.acme.controller;
 
 import java.util.List;
 
-import org.acme.Repository.ChannelRepository;
-import org.acme.Repository.UserRepository;
 import org.acme.model.ChannelModel;
 import org.acme.model.UserModel;
+import org.acme.repository.ChannelRepository;
+import org.acme.repository.UserRepository;
 
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;
